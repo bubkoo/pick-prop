@@ -3,7 +3,7 @@
 var expect = require('chai').expect;
 
 
-describe('pick-key: ', function () {
+describe('pick-prop: ', function () {
 
   var pickProp = require('../../');
 
