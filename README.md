@@ -39,7 +39,7 @@ pickProp('a');  // => undefined
 
 ## Related
 
-- [pick-prop](https://github.com/mock-end/pick-prop) - Randomly sampling a property from an object.
+- [pick-props](https://github.com/mock-end/pick-props) - Randomly sampling some properties from an object.
 - [pick-key](https://github.com/mock-end/pick-key) - Randomly sampling a key from an object.
 - [pick-keys](https://github.com/mock-end/pick-keys) - Randomly sampling some keys from an object.
 - [object-at](https://github.com/gearcase/object-at) - Get object's property according to the path.
